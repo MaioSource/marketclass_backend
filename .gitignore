@@ -1,0 +1,26 @@
+# Dependencias
+/node_modules
+/data
+
+# Archivos de compilación y log
+*.log
+*.swp
+*.swo
+*.swn
+*.swo
+*.out
+*.pid
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.tar
+*.gz
+
+# Carpetas generadas por los sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Configuraciones específicas del IDE
+.vscode/
+.idea/
